@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prince+Kumar;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prince+Kumar;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Building distributed systems & real-time platforms from the ground up</h3>
+<h3 align="center">Building distributed systems and real-time platforms from the ground up</h3>
 
 <p align="center">
   <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,9 +13,9 @@
 
 ---
 
-## 🎓 Student · 💻 Builder · 🚀 Engineer
+## Student | Builder | Engineer
 
-I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023–2027) who treats every project like a production system. While I maintain a strong academic foundation in **DSA, OS, DBMS, Networks, and Compiler Design**, I spend most of my time architecting real-world platforms — from distributed query engines to real-time collaborative infrastructure.
+I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023-2027) who treats every project like a production system. While I maintain a strong academic foundation in **DSA, OS, DBMS, Networks, and Compiler Design**, I spend most of my time architecting real-world platforms -- from distributed query engines to real-time collaborative infrastructure.
 
 **Currently seeking:** New Graduate / Software Engineer roles starting **2027** | Summer internships 2026
 
@@ -23,12 +23,12 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ## What I've Shipped
 
-### [QueryForge](https://github.com/princekr969/QueryForge-) — Distributed Parallel SQL Engine
-> *Because single-node analytics shouldn't be the bottleneck*
+### [QueryForge](https://github.com/princekr969/QueryForge-) -- Distributed Parallel SQL Engine
+> Because single-node analytics shouldn't be the bottleneck
 
 A **cloud-native, distributed SQL query engine** built from scratch to handle analytical workloads at scale.
 - **3 worker nodes** orchestrated via **gRPC server-side streaming** with MapReduce-style partial aggregation and predicate pushdown
-- Achieved **1.7× speedup** on **2M+ row datasets** vs. single-node baseline
+- Achieved **1.7x speedup** on **2M+ row datasets** vs. single-node baseline
 - **Fault-tolerant scheduler**: 5s heartbeats, 15s dead-node detection, automatic partition reassignment (max 3 retries)
 - Full observability: **OpenTelemetry** spans, **Prometheus** metrics, **Grafana** dashboards across **9 containerized services**
 - Analytical SQL over partitioned datasets in **MinIO** (S3-compatible)
@@ -37,8 +37,8 @@ A **cloud-native, distributed SQL query engine** built from scratch to handle an
 
 ---
 
-### [Code-Buddy](https://github.com/princekr969/Code-Buddy) — Real-Time Collaborative Code Editor
-> *Google Docs meets VS Code, with 25+ language execution*
+### [Code-Buddy](https://github.com/princekr969/Code-Buddy) -- Real-Time Collaborative Code Editor
+> Google Docs meets VS Code, with 25+ language execution
 
 A **production-grade collaborative IDE** with conflict-free synchronization and in-browser code execution.
 - **Live cursor tracking** and conflict-free sync using **Yjs CRDT** + **Socket.IO**
@@ -50,24 +50,24 @@ A **production-grade collaborative IDE** with conflict-free synchronization and 
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Software Developer (Summer Colloquium)** @ SLDC Odisha Project, ABV-IIITM Gwalior  
-*May 2026 – Aug 2026*
+**Software Developer (Summer Colloquium)** | SLDC Odisha Project, ABV-IIITM Gwalior  
+*May 2026 - Aug 2026*
 - Architected a **centralized API abstraction layer** decoupling data-fetching logic from UI, reducing redundant service calls across **10+ modules**
 - Replaced fixed month/year report downloads with **flexible custom date-range selection** for arbitrary range generation
 - Built a **Node.js/TypeScript integration layer** consuming real-time **SCADA APIs** across **5 grid zones** for sub-minute power-demand monitoring
-- Designed a **dual-source data pipeline** (SCADA + Open-Meteo API) with **Drizzle ORM** → PostgreSQL, powering an **Hour-Ahead Load Forecasting** model
+- Designed a **dual-source data pipeline** (SCADA + Open-Meteo API) with **Drizzle ORM** to PostgreSQL, powering an **Hour-Ahead Load Forecasting** model
 
-**Web Developer** @ Sangillence (Startup)  
-*Jan 2026 – Mar 2026*
-- Delivered a **full-stack platform** for the Open Book Olympiad serving **500+ students** (Class 3–10) end-to-end
+**Web Developer** | Sangillence (Startup)  
+*Jan 2026 - Mar 2026*
+- Delivered a **full-stack platform** for the Open Book Olympiad serving **500+ students** (Class 3-10) end-to-end
 - Engineered **secure student registration** with live photo capture + on-site identity verification for tamper-proof validation
 - Shipped independently from design to deployment in **14 weeks** for a real client
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -100,7 +100,7 @@ A **production-grade collaborative IDE** with conflict-free synchronization and 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princekr969&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -117,25 +117,25 @@ A **production-grade collaborative IDE** with conflict-free synchronization and 
 
 ---
 
-## 🏆 Achievements & Leadership
+## Achievements & Leadership
 
-- **Design Lead**, Inter-IIITM Sports Meet & Aurora — Led visual design for two major college fests, producing **20+ posters and digital creatives**
+- **Design Lead**, Inter-IIITM Sports Meet & Aurora -- Led visual design for two major college fests, producing **20+ posters and digital creatives**
 - Built **2 production-grade systems** independently from system design to deployment
 - Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks, Software Engineering, Compiler Design, and System Design**
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:princekr969@outlook.com">
-    <img src="https://img.shields.io/badge/📧_princekr969@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <i>I'm always open to discussing systems design, distributed architectures, or potential opportunities.</i><br>
-  <b>Looking for New Grad / SDE roles for 2027 🎯</b>
+  <b>Looking for New Grad / SDE roles for 2027</b>
 </p>
 
 <p align="center">

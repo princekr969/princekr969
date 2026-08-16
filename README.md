@@ -8,7 +8,7 @@
   <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/princekr969"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/princekr969"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://princekr969.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-prince-rajs-projects-7e326db3.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## 🔥 What I've Shipped
+## What I've Shipped
 
 ### [QueryForge](https://github.com/princekr969/QueryForge-) — Distributed Parallel SQL Engine
 > *Because single-node analytics shouldn't be the bottleneck*

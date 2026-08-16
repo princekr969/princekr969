@@ -46,12 +46,12 @@
 
 ## 🔥 Featured Projects
 
-### **QueryForge — Parallel SQL Query Engine for Analytical Workloads**[GitHub](https://github.com/princekr969/QueryForge-)
+### **QueryForge — Parallel SQL Query Engine for Analytical Workloads**[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/princekr969/QueryForge-)
 * Distributed parallel SQL engine across 3 worker nodes via gRPC server‑side streaming with MapReduce-style partial aggregation and predicate pushdown, achieving a **1.7x speedup** on 2M+ row datasets over a single-node baseline.
 * Fault-tolerant task scheduler with 5s heartbeats, 15s dead-node detection, and automatic partition reassignment.
 * Full observability stack: OpenTelemetry spans, Prometheus metrics, and Grafana dashboards across 9 containerized services.
 
-### **Code-Buddy — Real-Time Collaborative Code Editor**[GitHub](https://github.com/princekr969/Code-Buddy)
+### **Code-Buddy — Real-Time Collaborative Code Editor**[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/princekr969/Code-Buddy)
 * Live cursor tracking and conflict-free sync using Yjs CRDT and Socket.IO.
 * Monaco Editor integration with multi-file tabs, syntax highlighting, and unsaved-change indicators.
 * In-browser code execution across 25+ languages via the JDoodle API.
@@ -60,13 +60,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=princekr969&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekr969&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=princekr969&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekr969&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekr969&theme=tokyonight&hide_border=true"/> 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princekr969&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 

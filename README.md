@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prince+Kumar;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prince+Kumar;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building distributed systems and real-time platforms from the ground up</h3>
 
 <p align="center">
   <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/princekr969"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/princekr969"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-prince-rajs-projects-7e326db3.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/princekr969"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/princekr969  target="_blank""><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-prince-rajs-projects-7e326db3.vercel.app/"  target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---

@@ -17,7 +17,7 @@
 
 I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023-2027) who treats every project like a production system. While I maintain a strong academic foundation in **DSA, OS, DBMS, Networks, and Compiler Design**, I spend most of my time architecting real-world platforms -- from distributed query engines to real-time collaborative infrastructure.
 
-**Currently seeking:** New Graduate / Software Engineer roles starting **2027** | Summer internships 2026
+**Currently seeking:** New Graduate / Software Engineer roles starting **2027** | Winter internships 2026
 
 ---
 

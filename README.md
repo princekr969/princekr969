@@ -5,10 +5,10 @@
 <h3 align="center">Building distributed systems and real-time platforms from the ground up</h3>
 
 <p align="center">
-  <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/princekr969" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/princekr969" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-prince-rajs-projects-7e326db3.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Gmail-princekr969%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/princekr969" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-princekr969-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/princekr969" target="_blank"><img src="https://img.shields.io/badge/GitHub-princekr969-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://portfolio-prince-rajs-projects-7e326db3.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -198,7 +198,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 <p align="center">
   <a href="mailto:princekr969@outlook.com">
-    <img src="https://img.shields.io/badge/Email-princekr969%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-princekr969%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prince+Kumar;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prince;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building distributed systems and real-time platforms from the ground up</h3>

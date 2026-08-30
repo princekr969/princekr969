@@ -144,8 +144,4 @@ A **production-grade collaborative IDE** with conflict-free synchronization and 
   <b>Looking for New Grad / SDE roles for 2027</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/princekr969/princekr969/graphs/traffic">
-    <img src="https://img.shields.io/badge/Profile%20Traffic-View%20Unique%20Visitors-58A6FF?style=flat&logo=github&logoColor=white" alt="Profile Traffic Insights" />
-  </a>
-</p>
+

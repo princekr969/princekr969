@@ -21,19 +21,19 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## <img src="https://img.shields.io/badge/-Experience-0077B5?style=flat&logo=briefcase&logoColor=white" /> Experience
+## <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=briefcase&logoColor=white" /> Experience
 
 <table>
   <tr>
-    <td width="8%" align="center"><img src="https://img.shields.io/badge/-IIITM-4B0082?style=flat&logo=academia&logoColor=white" /></td>
+    <td width="8%" align="center"><img src="https://img.shields.io/badge/-4B0082?style=flat&logo=academia&logoColor=white" /></td>
     <td>
       <b>Software Developer — Summer Colloquium</b><br/>
       <i>SLDC Odisha Project · ABV-IIITM Gwalior &nbsp;|&nbsp; May 2026 – Aug 2026</i>
       <ul>
-        <li><img src="https://img.shields.io/badge/-Arch-244c5a?style=flat&logo=buffer&logoColor=white" /> Architected a <b>centralized API abstraction layer</b> decoupling data-fetching from UI across <b>10+ modules</b></li>
-        <li><img src="https://img.shields.io/badge/-Feature-2ea44f?style=flat&logo=addthis&logoColor=white" /> Replaced fixed report downloads with <b>flexible custom date-range</b> selection for arbitrary range generation</li>
-        <li><img src="https://img.shields.io/badge/-Integration-0078D4?style=flat&logo=azurepipelines&logoColor=white" /> Built a <b>Node.js/TypeScript integration layer</b> consuming real-time <b>SCADA APIs</b> across 5 grid zones</li>
-        <li><img src="https://img.shields.io/badge/-Pipeline-E6522C?style=flat&logo=prometheus&logoColor=white" /> Designed a <b>dual-source data pipeline</b> (SCADA + Open-Meteo) with Drizzle ORM → Hour-Ahead Load Forecasting</li>
+        <li>Architected a <b>centralized API abstraction layer</b> decoupling data-fetching from UI across <b>10+ modules</b></li>
+        <li>Replaced fixed report downloads with <b>flexible custom date-range</b> selection for arbitrary range generation</li>
+        <li>Built a <b>Node.js/TypeScript integration layer</b> consuming real-time <b>SCADA APIs</b> across 5 grid zones</li>
+        <li>Designed a <b>dual-source data pipeline</b> (SCADA + Open-Meteo) with Drizzle ORM → Hour-Ahead Load Forecasting</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -45,16 +45,16 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
-    <td width="8%" align="center"><img src="https://img.shields.io/badge/-Startup-FF6C37?style=flat&logo=rocket&logoColor=white" /></td>
+    <td width="8%" align="center"><img src="https://img.shields.io/badge/-FF6C37?style=flat&logo=rocket&logoColor=white" /></td>
     <td>
       <b>Tech Lead</b><br/>
       <i>Sangillence (Startup) &nbsp;|&nbsp; Jan 2026 – Mar 2026</i>
       <ul>
-        <li><img src="https://img.shields.io/badge/-Build-61DAFB?style=flat&logo=react&logoColor=black" /> Developed the <b>SOBO'25 examination and testing platform</b> using React and related technologies</li>
-        <li><img src="https://img.shields.io/badge/-Design-F24E1E?style=flat&logo=figma&logoColor=white" /> Designed and implemented <b>student registration, authentication, and examination workflows</b></li>
-        <li><img src="https://img.shields.io/badge/-Security-2ea44f?style=flat&logo=springsecurity&logoColor=white" /> Built <b>participant identity verification</b> with secure authentication and live photo capture</li>
-        <li><img src="https://img.shields.io/badge/-Backend-000000?style=flat&logo=express&logoColor=white" /> Handled <b>backend development, API integration, database management</b>, and platform optimization</li>
-        <li><img src="https://img.shields.io/badge/-Lead-0077B5?style=flat&logo=linear&logoColor=white" /> Led <b>technical coordination and ownership</b> of key platform components during Olympiad execution</li>
+        <li>Developed the <b>SOBO'25 examination and testing platform</b> using React and related technologies</li>
+        <li>Designed and implemented <b>student registration, authentication, and examination workflows</b></li>
+        <li>Built <b>participant identity verification</b> with secure authentication and live photo capture</li>
+        <li>Handled <b>backend development, API integration, database management</b>, and platform optimization</li>
+        <li>Led <b>technical coordination and ownership</b> of key platform components during Olympiad execution</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -71,7 +71,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## <img src="https://img.shields.io/badge/-What%20I've%20Shipped-181717?style=flat&logo=github&logoColor=white" /> What I've Shipped
+## <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" /> What I've Shipped
 
 <table>
   <tr>
@@ -94,10 +94,10 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
       <ul>
-        <li><img src="https://img.shields.io/badge/-Nodes-244c5a?style=flat&logo=serverless&logoColor=white" /> <b>3 worker nodes</b> via gRPC streaming + MapReduce aggregation</li>
-        <li><img src="https://img.shields.io/badge/-Speed-2ea44f?style=flat&logo=lightning&logoColor=white" /> <b>1.7x speedup</b> on 2M+ row datasets vs single-node</li>
-        <li><img src="https://img.shields.io/badge/-Fault%20Tolerant-E6522C?style=flat&logo=prometheus&logoColor=white" /> Fault-tolerant scheduler with auto partition reassignment</li>
-        <li><img src="https://img.shields.io/badge/-Observability-F46800?style=flat&logo=grafana&logoColor=white" /> Full observability: OpenTelemetry · Prometheus · Grafana</li>
+        <li><b>3 worker nodes</b> via gRPC streaming + MapReduce aggregation</li>
+        <li><b>1.7x speedup</b> on 2M+ row datasets vs single-node</li>
+        <li>Fault-tolerant scheduler with auto partition reassignment</li>
+        <li>Full observability: OpenTelemetry · Prometheus · Grafana</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -119,10 +119,10 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
         <img src="https://img.shields.io/badge/Yjs-CRDT-blueviolet?style=flat" />
       </p>
       <ul>
-        <li><img src="https://img.shields.io/badge/-Realtime-010101?style=flat&logo=socket.io&logoColor=white" /> <b>Live cursor tracking</b> via Yjs CRDT + Socket.IO</li>
-        <li><img src="https://img.shields.io/badge/-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <b>Monaco Editor</b> with multi-file tabs + syntax highlighting</li>
-        <li><img src="https://img.shields.io/badge/-Execute-3776AB?style=flat&logo=python&logoColor=white" /> In-browser execution across <b>25+ languages</b></li>
-        <li><img src="https://img.shields.io/badge/-Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" /> JWT auth · MongoDB persistence · in-editor chat</li>
+        <li><b>Live cursor tracking</b> via Yjs CRDT + Socket.IO</li>
+        <li><b>Monaco Editor</b> with multi-file tabs + syntax highlighting</li>
+        <li>In-browser execution across <b>25+ languages</b></li>
+        <li>JWT auth · MongoDB persistence · in-editor chat</li>
       </ul>
     </td>
   </tr>
@@ -163,7 +163,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## <img src="https://img.shields.io/badge/-Interactive%203D%20Contribution%20Graph-58A6FF?style=flat&logo=github&logoColor=white" />
+## <img src="https://img.shields.io/badge/-58A6FF?style=flat&logo=githubactions&logoColor=white" /> Interactive 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
@@ -171,7 +171,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Contribution%20Snake-2ea44f?style=flat&logo=github&logoColor=white" />
+## <img src="https://img.shields.io/badge/-2ea44f?style=flat&logo=github&logoColor=white" /> GitHub Contribution Snake
 
 <p align="center">
   <picture>

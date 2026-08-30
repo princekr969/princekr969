@@ -100,23 +100,6 @@ A **production-grade collaborative IDE** with conflict-free synchronization and 
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princekr969&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekr969&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princekr969&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekr969&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 🌐 Interactive 3D Contribution Graph
 
 <p align="center">

@@ -21,49 +21,108 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## What I've Shipped
+## 💼 Experience
 
-### <a href="https://github.com/princekr969/QueryForge-" target="_blank">QueryForge</a> -- Distributed Parallel SQL Engine
-> Because single-node analytics shouldn't be the bottleneck
-
-A **cloud-native, distributed SQL query engine** built from scratch to handle analytical workloads at scale.
-- **3 worker nodes** orchestrated via **gRPC server-side streaming** with MapReduce-style partial aggregation and predicate pushdown
-- Achieved **1.7x speedup** on **2M+ row datasets** vs. single-node baseline
-- **Fault-tolerant scheduler**: 5s heartbeats, 15s dead-node detection, automatic partition reassignment (max 3 retries)
-- Full observability: **OpenTelemetry** spans, **Prometheus** metrics, **Grafana** dashboards across **9 containerized services**
-- Analytical SQL over partitioned datasets in **MinIO** (S3-compatible)
-
-**Stack:** `Node.js` `TypeScript` `gRPC` `Docker` `PostgreSQL` `MinIO` `Prometheus` `Grafana`
+<table>
+  <tr>
+    <td width="8%" align="center">🏛️</td>
+    <td>
+      <b>Software Developer — Summer Colloquium</b><br/>
+      <i>SLDC Odisha Project · ABV-IIITM Gwalior &nbsp;|&nbsp; May 2026 – Aug 2026</i>
+      <ul>
+        <li>Architected a <b>centralized API abstraction layer</b> decoupling data-fetching from UI across <b>10+ modules</b></li>
+        <li>Replaced fixed report downloads with <b>flexible custom date-range</b> selection for arbitrary range generation</li>
+        <li>Built a <b>Node.js/TypeScript integration layer</b> consuming real-time <b>SCADA APIs</b> across 5 grid zones</li>
+        <li>Designed a <b>dual-source data pipeline</b> (SCADA + Open-Meteo) with Drizzle ORM → Hour-Ahead Load Forecasting</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="8%" align="center">🚀</td>
+    <td>
+      <b>Tech Lead</b><br/>
+      <i>Sangillence (Startup) &nbsp;|&nbsp; Jan 2026 – Mar 2026</i>
+      <ul>
+        <li>Developed the <b>SOBO'25 examination and testing platform</b> using React and related technologies</li>
+        <li>Designed and implemented <b>student registration, authentication, and examination workflows</b></li>
+        <li>Built <b>participant identity verification</b> with secure authentication and live photo capture</li>
+        <li>Handled <b>backend development, API integration, database management</b>, and platform optimization</li>
+        <li>Led <b>technical coordination and ownership</b> of key platform components during Olympiad execution</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <a href="https://github.com/princekr969/Code-Buddy" target="_blank">Code-Buddy</a> -- Real-Time Collaborative Code Editor
-> Google Docs meets VS Code, with 25+ language execution
+## 🚀 What I've Shipped
 
-A **production-grade collaborative IDE** with conflict-free synchronization and in-browser code execution.
-- **Live cursor tracking** and conflict-free sync using **Yjs CRDT** + **Socket.IO**
-- **Monaco Editor** integration with multi-file tabs, syntax highlighting, and unsaved-change indicators
-- In-browser code execution across **25+ languages** via JDoodle API
-- **JWT auth**, MongoDB persistence, real-time presence panel, and in-editor chat
-
-**Stack:** `React.js` `Node.js` `Express` `Socket.IO` `Yjs` `MongoDB` `JWT` `Monaco Editor`
-
----
-
-## Experience
-
-**Software Developer (Summer Colloquium)** | SLDC Odisha Project, ABV-IIITM Gwalior  
-*May 2026 - Aug 2026*
-- Architected a **centralized API abstraction layer** decoupling data-fetching logic from UI, reducing redundant service calls across **10+ modules**
-- Replaced fixed month/year report downloads with **flexible custom date-range selection** for arbitrary range generation
-- Built a **Node.js/TypeScript integration layer** consuming real-time **SCADA APIs** across **5 grid zones** for sub-minute power-demand monitoring
-- Designed a **dual-source data pipeline** (SCADA + Open-Meteo API) with **Drizzle ORM** to PostgreSQL, powering an **Hour-Ahead Load Forecasting** model
-
-**Web Developer** | Sangillence (Startup)  
-*Jan 2026 - Mar 2026*
-- Delivered a **full-stack platform** for the Open Book Olympiad serving **500+ students** (Class 3-10) end-to-end
-- Engineered **secure student registration** with live photo capture + on-site identity verification for tamper-proof validation
-- Shipped independently from design to deployment in **14 weeks** for a real client
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/princekr969/QueryForge-" target="_blank">⚡ QueryForge</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/princekr969/QueryForge-" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><i>Distributed Parallel SQL Engine</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <ul>
+        <li>🔀 <b>3 worker nodes</b> via gRPC streaming + MapReduce aggregation</li>
+        <li>🚀 <b>1.7x speedup</b> on 2M+ row datasets vs single-node</li>
+        <li>🛡️ Fault-tolerant scheduler with auto partition reassignment</li>
+        <li>📊 Full observability: OpenTelemetry · Prometheus · Grafana</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">🤝 Code-Buddy</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><i>Real-Time Collaborative Code Editor</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Yjs-CRDT-blueviolet?style=flat" />
+      </p>
+      <ul>
+        <li>🖱️ <b>Live cursor tracking</b> via Yjs CRDT + Socket.IO</li>
+        <li>🖥️ <b>Monaco Editor</b> with multi-file tabs + syntax highlighting</li>
+        <li>▶️ In-browser execution across <b>25+ languages</b></li>
+        <li>🔐 JWT auth · MongoDB persistence · in-editor chat</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

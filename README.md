@@ -77,6 +77,31 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
+        <a href="https://github.com/princekr969/Roleneo" target="_blank">
+          <img src="https://img.shields.io/badge/-Roleneo-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/princekr969/Roleneo" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><i>Agentic Career Transition Engine</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>15-node LangGraph pipeline</b> with supervisor fan-out and critic retry loop</li>
+        <li><b>Neo4j GraphRAG</b> — occupations, skills and tasks as a knowledge graph</li>
+        <li>Live salary, courses, YouTube and community data fetched per query</li>
+        <li>Resume-aware: PDF parsed and folded into every downstream decision</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
         <a href="https://github.com/princekr969/QueryForge-" target="_blank">
           <img src="https://img.shields.io/badge/-QueryForge-244c5a?style=for-the-badge&logo=postgresql&logoColor=white" />
         </a>
@@ -100,31 +125,34 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
         <li>Full observability: OpenTelemetry · Prometheus · Grafana</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">
-          <img src="https://img.shields.io/badge/-Code--Buddy-010101?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <a href="https://github.com/princekr969/Blog-Generation-using_langgraph" target="_blank">
+          <img src="https://img.shields.io/badge/-Blog--Generation-6e40c9?style=for-the-badge&logo=streamlit&logoColor=white" />
         </a>
       </h3>
       <p align="center">
-        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">
+        <a href="https://github.com/princekr969/Blog-Generation-using_langgraph" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Real-Time Collaborative Code Editor</i></p>
+      <p align="center"><i>Agentic Blog Generation System</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Yjs-CRDT-blueviolet?style=flat" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
       </p>
       <ul>
-        <li><b>Live cursor tracking</b> via Yjs CRDT + Socket.IO</li>
-        <li><b>Monaco Editor</b> with multi-file tabs + syntax highlighting</li>
-        <li>In-browser execution across <b>25+ languages</b></li>
-        <li>JWT auth · MongoDB persistence · in-editor chat</li>
+        <li>Text <b>and voice input</b> — speak a topic, get a formatted blog</li>
+        <li><b>5 languages</b>: English, Hindi, French, Spanish, German</li>
+        <li>Tone and length control: Professional / Casual / Academic</li>
+        <li><b>ElevenLabs TTS</b> — streamed audio output per language voice</li>
       </ul>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -155,11 +183,19 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 **Data & DevOps:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+**AI / ML:**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
@@ -189,7 +225,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 ## Achievements & Leadership
 
 - **Design Lead**, Inter-IIITM Sports Meet & Aurora -- Led visual design for two major college fests, producing **20+ posters and digital creatives**
-- Built **2 production-grade systems** independently from system design to deployment
+- Built **3 production-grade systems** independently from system design to deployment
 - Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks, Software Engineering, Compiler Design, and System Design**
 
 ---

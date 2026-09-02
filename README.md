@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prince;Final+Year+CS+@+ABV-IIITM+Gwalior;Full-Stack+Engineer+%7C+Systems+Builder;Open+to+New+Grad+%26+SDE+Roles+2027" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Building distributed systems and real-time platforms from the ground up</h3>
+<h3 align="center">Building distributed systems, agentic AI pipelines, and real-time platforms from the ground up</h3>
 
 <p align="center">
   <a href="mailto:princekr969@outlook.com"><img src="https://img.shields.io/badge/Gmail-princekr969%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -15,7 +15,7 @@
 
 ## Student | Builder | Engineer
 
-I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023-2027) who treats every project like a production system. While I maintain a strong academic foundation in **DSA, OS, DBMS, Networks, and Compiler Design**, I spend most of my time architecting real-world platforms -- from distributed query engines to real-time collaborative infrastructure.
+I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023-2027) who treats every project like a production system. While I maintain a strong academic foundation in **DSA, OS, DBMS, Networks, and System Design**, I spend most of my time building real-world platforms — from distributed SQL engines and agentic AI pipelines to real-time collaborative infrastructure.
 
 **Currently seeking:** New Graduate / Software Engineer roles starting **2027** | Winter internships 2026
 
@@ -47,14 +47,12 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   <tr>
     <td width="8%" align="center"><img src="https://img.shields.io/badge/-FF6C37?style=flat&logo=rocket&logoColor=white" /></td>
     <td>
-      <b>Tech Lead</b><br/>
-      <i>Sangillence (Startup) &nbsp;|&nbsp; Jan 2026 – Mar 2026</i>
+      <b>Web Developer</b><br/>
+      <i>Sangillence (Startup) &nbsp;|&nbsp; Oct 2025 – Mar 2026</i>
       <ul>
-        <li>Developed the <b>SOBO'25 examination and testing platform</b> using React and related technologies</li>
+        <li>Built a <b>full-stack platform</b> for the Sangillence Open Book Olympiad, handling end-to-end delivery for <b>500+ students</b> across Class 3–10 with live photo capture and on-site identity verification for tamper-proof registration</li>
         <li>Designed and implemented <b>student registration, authentication, and examination workflows</b></li>
-        <li>Built <b>participant identity verification</b> with secure authentication and live photo capture</li>
-        <li>Handled <b>backend development, API integration, database management</b>, and platform optimization</li>
-        <li>Led <b>technical coordination and ownership</b> of key platform components during Olympiad execution</li>
+        <li>Shipped a responsive, production-ready product independently for a real client, from initial design to deployment within <b>14 weeks</b></li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -86,24 +84,24 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Agentic Career Transition Engine</i></p>
+      <p align="center"><i>Intelligent Career Transition Engine — Agentic AI & GraphRAG</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat&logo=google&logoColor=white" />
       </p>
       <ul>
-        <li><b>15-node LangGraph pipeline</b> with supervisor fan-out and critic retry loop</li>
-        <li><b>Neo4j GraphRAG</b> — occupations, skills and tasks as a knowledge graph</li>
-        <li>Live salary, courses, YouTube and community data fetched per query</li>
-        <li>Resume-aware: PDF parsed and folded into every downstream decision</li>
+        <li><b>15-node LangGraph pipeline</b> — Supervisor fan-out activating 6 parallel specialist agents</li>
+        <li><b>GraphRAG on Neo4j</b> with O*NET data — hybrid vector + Cypher skill-gap retrieval</li>
+        <li>Quality-gated output: Critic scoring ≥7/10 with 2-retry cap via Gemini 2.5</li>
+        <li>Live salary, courses, YouTube & community intel fetched per query via Tavily + LangSmith tracing</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/princekr969/QueryForge-" target="_blank">
-          <img src="https://img.shields.io/badge/-QueryForge-244c5a?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/-QueryForge--SQL--Engine-244c5a?style=for-the-badge&logo=go&logoColor=white" />
         </a>
       </h3>
       <p align="center">
@@ -111,18 +109,18 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Distributed Parallel SQL Engine</i></p>
+      <p align="center"><i>Parallel SQL Query Engine for Analytical Workloads</i></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
       <ul>
-        <li><b>3 worker nodes</b> via gRPC streaming + MapReduce aggregation</li>
-        <li><b>1.7x speedup</b> on 2M+ row datasets vs single-node</li>
-        <li>Fault-tolerant scheduler with auto partition reassignment</li>
-        <li>Full observability: OpenTelemetry · Prometheus · Grafana</li>
+        <li><b>3 worker nodes</b> via gRPC streaming — MapReduce aggregation + predicate pushdown</li>
+        <li><b>1.7× speedup</b> on 2M+ row analytical datasets over single-node baseline</li>
+        <li>Fault-tolerant scheduler: 5s heartbeats, 15s dead-node detection, max 3 retries</li>
+        <li>Full observability: OpenTelemetry · Prometheus · Grafana across <b>9 containerized services</b></li>
       </ul>
     </td>
   </tr>
@@ -138,7 +136,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Agentic Blog Generation System</i></p>
+      <p align="center"><i>Multi-Modal Agentic Blog Generator — Voice I/O & Multilingual</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
@@ -146,13 +144,37 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
       </p>
       <ul>
-        <li>Text <b>and voice input</b> — speak a topic, get a formatted blog</li>
-        <li><b>5 languages</b>: English, Hindi, French, Spanish, German</li>
-        <li>Tone and length control: Professional / Casual / Academic</li>
-        <li><b>ElevenLabs TTS</b> — streamed audio output per language voice</li>
+        <li>State-machine LangGraph pipeline — <b>3 agentic workflows</b> with conditional edge routing</li>
+        <li><b>5 languages</b>: English, Hindi, French, Spanish, German with tone & length control</li>
+        <li>Voice input via <b>AssemblyAI STT</b> + streamed audio output via <b>ElevenLabs TTS</b></li>
+        <li>FastAPI REST backend + Streamlit frontend for end-to-end voice-to-blog delivery</li>
       </ul>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">
+          <img src="https://img.shields.io/badge/-Code--Buddy-010101?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/princekr969/Code-Buddy" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><i>Real-Time Collaborative Code Editor</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Yjs-CRDT-blueviolet?style=flat" />
+      </p>
+      <ul>
+        <li><b>Live cursor tracking</b> via Yjs CRDT + Socket.IO</li>
+        <li><b>Monaco Editor</b> with multi-file tabs + syntax highlighting</li>
+        <li>In-browser execution across <b>25+ languages</b></li>
+        <li>JWT auth · MongoDB persistence · in-editor chat</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -176,6 +198,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 **Backend & Systems:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
@@ -225,7 +248,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 ## Achievements & Leadership
 
 - **Design Lead**, Inter-IIITM Sports Meet & Aurora -- Led visual design for two major college fests, producing **20+ posters and digital creatives**
-- Built **3 production-grade systems** independently from system design to deployment
+- Built **4 production-grade systems** independently from system design to deployment
 - Strong foundation in **DSA, OOP, DBMS, OS, Computer Networks, Software Engineering, Compiler Design, and System Design**
 
 ---

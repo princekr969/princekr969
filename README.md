@@ -47,7 +47,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   <tr>
     <td width="8%" align="center"><img src="https://img.shields.io/badge/-FF6C37?style=flat&logo=rocket&logoColor=white" /></td>
     <td>
-      <b>Web Developer</b><br/>
+      <b>Tech Lead</b><br/>
       <i>Sangillence (Startup) &nbsp;|&nbsp; Oct 2025 – Mar 2026</i>
       <ul>
         <li>Built a <b>full-stack platform</b> for the Sangillence Open Book Olympiad, handling end-to-end delivery for <b>500+ students</b> across Class 3–10 with live photo capture and on-site identity verification for tamper-proof registration</li>

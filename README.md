@@ -45,7 +45,11 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
-    <td width="8%" align="center"><img src="https://img.shields.io/badge/-FF6C37?style=flat&logo=rocket&logoColor=white" /></td>
+    <td width="8%" align="center">
+  <a href="https://res.cloudinary.com/backend969/image/upload/v1790782797/Screenshot_2026-09-30_210829_xenoub.png">
+    <img src="https://res.cloudinary.com/backend969/image/upload/v1790782797/Screenshot_2026-09-30_210829_xenoub.png" />
+  </a>
+</td>
     <td>
       <b>Tech Lead</b><br/>
       <i>Sangillence (Startup) &nbsp;|&nbsp; Oct 2025 – Mar 2026</i>

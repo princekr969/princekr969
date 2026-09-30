@@ -25,7 +25,12 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 <table>
   <tr>
-    <td width="8%" align="center"><img src="https://img.shields.io/badge/-4B0082?style=flat&logo=academia&logoColor=white" /></td>
+     <td width="8%" align="center">
+
+  <a href="https://github.com/sldc-odisha-projects">
+    <img src="https://res.cloudinary.com/backend969/image/upload/v1790790072/Screenshot_2026-09-30_230824_blzttk.png" />
+  </a>
+</td>
     <td>
       <b>Software Developer — Summer Colloquium</b><br/>
       <i>SLDC Odisha Project · ABV-IIITM Gwalior &nbsp;|&nbsp; May 2026 – Aug 2026</i>
@@ -46,7 +51,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="8%" align="center">
-  <a href="https://res.cloudinary.com/backend969/image/upload/v1790782797/Screenshot_2026-09-30_210829_xenoub.png">
+  <a href="https://github.com/akshat102030/Sangillence">
     <img src="https://res.cloudinary.com/backend969/image/upload/v1790782797/Screenshot_2026-09-30_210829_xenoub.png" />
   </a>
 </td>

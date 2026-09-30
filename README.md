@@ -21,7 +21,7 @@ I'm a **final-year Computer Science undergrad at ABV-IIITM Gwalior** (Batch 2023
 
 ---
 
-## <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=briefcase&logoColor=white" /> Experience
+## Experience
 
 <table>
   <tr>
